@@ -1,0 +1,5 @@
+experimentName test
+dimensions 20
+initialLearningRate 0.9
+inputs 16
+epochs 10

@@ -1,0 +1,9 @@
+numHiddenLayerNeurons 7
+numInputNeurons 53
+numOutputNeurons 1
+learningRates 0.2 0.2 0.2
+sigmas 1
+maxIterations 400
+centresFile centerVectors.txt
+trainFile train.txt
+testFile test.txt
